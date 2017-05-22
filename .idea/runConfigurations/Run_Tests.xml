@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <TestRunner directory="$PROJECT_DIR$/tests" options="--bootstrap ./tests/bootstrap.php" />
+    <method />
+  </configuration>
+</component>
